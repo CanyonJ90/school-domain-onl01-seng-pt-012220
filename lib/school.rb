@@ -16,6 +16,7 @@ class School
       if x == level
         return y 
   end 
+end
   
   def sort 
   nu_hash = {}
