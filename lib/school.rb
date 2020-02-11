@@ -19,9 +19,7 @@ class School
   end 
   nu_hash
   end 
-  
 end 
-end
 
 
 
